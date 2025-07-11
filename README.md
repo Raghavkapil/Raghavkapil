@@ -3,9 +3,9 @@
 - 😄 I'm a final year **Computer Science** student
 - 🔭 I’m currently working with **Infinite Computer Solutions**
 - 👯 I’m looking to collaborate on **full stack projects**
+- 📫 How to reach me: <ul><li><a href="https://linkedin.com/in/raghav-kapil-kr1">Linkedin</a></button></li><li><a href="mailto:raghavkapil81@gmail.com">Mail</li></ul>
 <!-- 🤔 I’m looking for help with ... -->
 <!-- 💬 Ask me about ... -->
-- 📫 How to reach me: <ul><li><a href="https://linkedin.com/in/raghav-kapil-kr1">Linkedin</a></button></li><li><a href="mailto:raghavkapil81@gmail.com">Mail</li></ul>
 <!-- ⚡ Fun fact: ... -->
   
 
