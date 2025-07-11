@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **full stack projects**
 <!-- 🤔 I’m looking for help with ... -->
 <!-- 💬 Ask me about ... -->
-- 📫 How to reach me: <ul><li><a href="www.linkedin.com/in/raghav-kapil-kr1">Linkedin</a></button></li><li><a href="raghavkapil81@gmail.com">Mail</li></ul>
+- 📫 How to reach me: <ul><li><a href="https://linkedin.com/in/raghav-kapil-kr1">Linkedin</a></button></li><li><a href="mailto:raghavkapil81@gmail.com">Mail</li></ul>
 <!-- ⚡ Fun fact: ... -->
   
 
