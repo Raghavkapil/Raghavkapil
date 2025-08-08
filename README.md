@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 😄 I'm a final year **Computer Science** student
-- 🔭 I’m currently working with **Infinite Computer Solutions**
+- 🔭 I have worked as an intern with **Infinite Computer Solutions** and **Bharat Intern (now Orbitor)**
 - 👯 I’m looking to collaborate on **full stack projects**
 - 📫 How to reach me: <ul><li><a href="https://linkedin.com/in/raghav-kapil-kr1">Linkedin</a></button></li><li><a href="mailto:raghavkapil81@gmail.com">Mail</li></ul>
 <!-- 🤔 I’m looking for help with ... -->
