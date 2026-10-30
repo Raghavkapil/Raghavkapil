@@ -1,6 +1,6 @@
 ## Hi there 👋
 
--🔭 I am currently working with **IBM** as **Application Developer** and have been interned at **Infinite Computer Solutions** and **Bharat Intern (now Orbitor)**
+- 🔭 I am currently working with **IBM** as **Application Developer** and have been interned at **Infinite Computer Solutions** and **Bharat Intern (now Orbitor)**
 - 😄 I’m a **Computer Science** graduate from **Thapar Institute of Engineering and Technology.**
 - 👯 I’m looking to collaborate on **full stack projects**
 - 📫 How to reach me: <ul><li><a href="https://linkedin.com/in/raghav-kapil-kr1">Linkedin</a></button></li><li><a href="mailto:raghavkapil81@gmail.com">Mail</li></ul>
